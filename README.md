@@ -23,7 +23,7 @@ var query = mysqlHaversine.query(100, 'stores', 18.370531, -66.143399, 'ASC');
 
 ```js
 
-mysqlHaversine(distance, table_name, your_latitude, your_longitude, order_by)
+query(distance, table_name, your_latitude, your_longitude, order_by)
 
 ```
 
