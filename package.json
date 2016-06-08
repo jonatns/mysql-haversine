@@ -10,5 +10,9 @@
     "haversine"
   ],
   "author": "Jonathan Navarrete <npm.mysqlhaversine.jonatns@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonatns/mysql-haversine"
+  },
   "license": "ISC"
 }
