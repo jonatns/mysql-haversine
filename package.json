@@ -1,0 +1,14 @@
+{
+  "name": "mysql-haversine",
+  "version": "1.1.0",
+  "description": "Haversine query for mysql.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "haversine"
+  ],
+  "author": "Jonathan Navarrete <npm.mysqlhaversine.jonatns@gmail.com>",
+  "license": "ISC"
+}
